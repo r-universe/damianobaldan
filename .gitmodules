@@ -5,7 +5,7 @@
 	branch = HEAD
 [submodule "RAC"]
 	path = RAC
-	url = https://github.com/cran/RAC
+	url = https://github.com/damianobaldan/rac
 	shallow = true
 	registered = true
 [submodule "riverconn"]
